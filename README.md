@@ -1,2 +1,2 @@
-# Introdu-o-heran-a
+# Introdução-Herança
 Atividade Polar
