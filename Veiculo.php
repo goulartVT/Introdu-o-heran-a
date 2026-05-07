@@ -23,7 +23,8 @@ class Veiculo {
     public $consumoMedio;
     public $numeroPortas;
     public $opcionais;
-
+    
+    // método
     public function mostrarDados() {
 
         echo "<h3>Dados do Veículo</h3>";
